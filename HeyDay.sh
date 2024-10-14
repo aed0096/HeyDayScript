@@ -7,4 +7,4 @@ echo "Enter your name"
 read name
 
 #print statement to user
-echo "Hey $name , War Eagle!"
+echo "Hey $name , War Eagle! Have an amazing day today."
